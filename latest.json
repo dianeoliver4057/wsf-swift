@@ -1,7 +1,7 @@
 {
-  "version": "1.4.6",
+  "version": "1.4.7",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.6: 双品牌发版系统上线 - 主牌和副牌同步更新通道；优化更新通知UI",
+  "releaseNotes": "v1.4.7: 双品牌完全独立 - 命令前缀/视图ID/状态键全部按品牌隔离；README按品牌渲染；两个版本可同时安装互不冲突；侧边栏图标按品牌区分",
   "publishedAt": "2026-05-18"
 }
