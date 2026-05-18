@@ -1,7 +1,7 @@
 {
-  "version": "1.4.13",
+  "version": "1.4.14",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.13: 适配新版 Windsurf 登录机制——补丁正则重写支持新版 handleAuthToken (_cachedSessions / restartLanguageServerIfNeeded / 函数式 secret key);Devin Auth 账号直接走补丁路径避免 registerUser 拒绝 devin-session-token",
+  "releaseNotes": "v1.4.14: 修复新版 Windsurf Devin 登录切换——先将 devin-session-token 通过 GetOneTimeAuthToken 换成一次性 auth_token，再调用原生 provideAuthToken；禁用自动补丁降级避免假成功未登录；主路径不再因设置而重载窗口",
   "publishedAt": "2026-05-18"
 }
