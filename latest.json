@@ -1,7 +1,7 @@
 {
-  "version": "1.4.17",
+  "version": "1.4.18",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.17: 修复换号后 Cascade 发送弹回——Devin 账号登录成功后等待 LanguageServer/UserStatus 初始化，再二次触发原生认证并刷新 ACP/Cascade，强制更新 userStatus/Cascade 状态",
+  "releaseNotes": "v1.4.18: 更换副牌扩展 ID，规避 Windsurf banned extension：windsurf-rz-manager -> rz-account-manager；保留新版登录与 Cascade 刷新逻辑",
   "publishedAt": "2026-05-18"
 }
