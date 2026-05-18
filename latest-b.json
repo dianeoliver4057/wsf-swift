@@ -1,7 +1,7 @@
 {
-  "version": "1.4.8",
+  "version": "1.4.9",
   "downloadUrl": "https://share.weiyun.com/uiwkyGvY",
   "downloadPassword": "",
-  "releaseNotes": "v1.4.8: 修复双品牌切换时package.json前缀残留导致的视图冲突；为主牌和副牌设置独立图标",
+  "releaseNotes": "v1.4.9: 图标尺寸大幅瘦身（256x256 商店图 + 32x32 活动栏图），修复活动栏图标因过大而无法渲染的问题；vsix 体积从 11.6MB 降至约 8MB",
   "publishedAt": "2026-05-18"
 }
