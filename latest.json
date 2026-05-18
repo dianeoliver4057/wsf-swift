@@ -1,7 +1,7 @@
 {
-  "version": "1.4.4",
+  "version": "1.4.5",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.4: 新增自动检查更新、修复面板加载、默认无感切换、QQ群更新",
+  "releaseNotes": "v1.4.5: 优化更新通知UI - 按钮改为「打开微云下载」「复制下载链接」；详情显示下载地址和提取码",
   "publishedAt": "2026-05-18"
 }
