@@ -1,7 +1,7 @@
 {
-  "version": "1.4.9",
+  "version": "1.4.10",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.9: 图标尺寸大幅瘦身（256x256 商店图 + 32x32 活动栏图），修复活动栏图标因过大而无法渲染的问题；vsix 体积从 11.6MB 降至约 8MB",
+  "releaseNotes": "v1.4.10: 修复活动栏图标无法显示（PNG 改为 SVG，使用 currentColor 支持主题）；副牌新增 RZ 字母 SVG 图标",
   "publishedAt": "2026-05-18"
 }
