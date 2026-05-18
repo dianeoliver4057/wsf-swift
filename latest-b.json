@@ -1,7 +1,7 @@
 {
-  "version": "1.4.11",
+  "version": "1.4.12",
   "downloadUrl": "https://share.weiyun.com/uiwkyGvY",
   "downloadPassword": "",
-  "releaseNotes": "v1.4.11: 修复换号后 Cascade 无法发送消息——原生命令已写入完整会话(含 userStatusProtoBinaryBase64),旧版又用精简数据覆盖了 windsurfAuthStatus 导致会话残缺;现已跳过覆盖",
+  "releaseNotes": "v1.4.12: 面板新增",
   "publishedAt": "2026-05-18"
 }
