@@ -1,7 +1,7 @@
 {
-  "version": "1.4.5",
+  "version": "1.4.6",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.5: 优化更新通知UI - 按钮改为「打开微云下载」「复制下载链接」；详情显示下载地址和提取码",
+  "releaseNotes": "v1.4.6: 双品牌发版系统上线 - 主牌和副牌同步更新通道；优化更新通知UI",
   "publishedAt": "2026-05-18"
 }
