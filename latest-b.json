@@ -1,7 +1,7 @@
 {
-  "version": "1.4.10",
+  "version": "1.4.11",
   "downloadUrl": "https://share.weiyun.com/uiwkyGvY",
   "downloadPassword": "",
-  "releaseNotes": "v1.4.10: 修复活动栏图标无法显示（PNG 改为 SVG，使用 currentColor 支持主题）；副牌新增 RZ 字母 SVG 图标",
+  "releaseNotes": "v1.4.11: 修复换号后 Cascade 无法发送消息——原生命令已写入完整会话(含 userStatusProtoBinaryBase64),旧版又用精简数据覆盖了 windsurfAuthStatus 导致会话残缺;现已跳过覆盖",
   "publishedAt": "2026-05-18"
 }
