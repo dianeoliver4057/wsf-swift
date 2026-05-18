@@ -1,7 +1,7 @@
 {
-  "version": "1.4.14",
+  "version": "1.4.15",
   "downloadUrl": "https://share.weiyun.com/uiwkyGvY",
   "downloadPassword": "",
-  "releaseNotes": "v1.4.14: 修复新版 Windsurf Devin 登录切换——先将 devin-session-token 通过 GetOneTimeAuthToken 换成一次性 auth_token，再调用原生 provideAuthToken；禁用自动补丁降级避免假成功未登录；主路径不再因设置而重载窗口",
+  "releaseNotes": "v1.4.15: 修复新版 Windsurf Devin 登录切换——先将 devin-session-token 通过 GetOneTimeAuthToken 换成一次性 auth_token，再调用原生 provideAuthToken；禁用自动补丁降级避免假成功未登录；主路径不再因设置而重载窗口",
   "publishedAt": "2026-05-18"
 }
