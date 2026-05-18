@@ -1,7 +1,7 @@
 {
-  "version": "1.4.7",
+  "version": "1.4.8",
   "downloadUrl": "https://share.weiyun.com/p2s7qNQy",
   "downloadPassword": "jipeed",
-  "releaseNotes": "v1.4.7: 双品牌完全独立 - 命令前缀/视图ID/状态键全部按品牌隔离；README按品牌渲染；两个版本可同时安装互不冲突；侧边栏图标按品牌区分",
+  "releaseNotes": "v1.4.8: 修复双品牌切换时package.json前缀残留导致的视图冲突；为主牌和副牌设置独立图标",
   "publishedAt": "2026-05-18"
 }
